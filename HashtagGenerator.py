@@ -11,6 +11,8 @@
 #
 #########################################
 
+#Мигель Адживапаев 3 репозиторий
+
 from __future__ import print_function
 
 from nltk.corpus import stopwords 
